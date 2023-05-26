@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".inventory_details_desc_container\"}\n  (Session info: chrome=113.0.5672.127)",
+  "stacktrace": "Backtrace:\n\tGetHandleVerifier [0x00808893+48451]\n\t(No symbol) [0x0079B8A1]\n\t(No symbol) [0x006A5058]\n\t(No symbol) [0x006D0467]\n\t(No symbol) [0x006D069B]\n\t(No symbol) [0x006FDD92]\n\t(No symbol) [0x006EA304]\n\t(No symbol) [0x006FC482]\n\t(No symbol) [0x006EA0B6]\n\t(No symbol) [0x006C7E08]\n\t(No symbol) [0x006C8F2D]\n\tGetHandleVerifier [0x00A68E3A+2540266]\n\tGetHandleVerifier [0x00AA8959+2801161]\n\tGetHandleVerifier [0x00AA295C+2776588]\n\tGetHandleVerifier [0x00892280+612144]\n\t(No symbol) [0x007A4F6C]\n\t(No symbol) [0x007A11D8]\n\t(No symbol) [0x007A12BB]\n\t(No symbol) [0x00794857]\n\tBaseThreadInitThunk [0x75EF00C9+25]\n\tRtlGetAppContainerNamedObjectPath [0x77867B4E+286]\n\tRtlGetAppContainerNamedObjectPath [0x77867B1E+238]\n"
+}

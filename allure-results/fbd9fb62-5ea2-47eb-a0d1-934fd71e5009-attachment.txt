@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".inventory_details_desc large_size\"}\n  (Session info: chrome=113.0.5672.127)",
+  "stacktrace": "Backtrace:\n\tGetHandleVerifier [0x008D8893+48451]\n\t(No symbol) [0x0086B8A1]\n\t(No symbol) [0x00775058]\n\t(No symbol) [0x007A0467]\n\t(No symbol) [0x007A069B]\n\t(No symbol) [0x007CDD92]\n\t(No symbol) [0x007BA304]\n\t(No symbol) [0x007CC482]\n\t(No symbol) [0x007BA0B6]\n\t(No symbol) [0x00797E08]\n\t(No symbol) [0x00798F2D]\n\tGetHandleVerifier [0x00B38E3A+2540266]\n\tGetHandleVerifier [0x00B78959+2801161]\n\tGetHandleVerifier [0x00B7295C+2776588]\n\tGetHandleVerifier [0x00962280+612144]\n\t(No symbol) [0x00874F6C]\n\t(No symbol) [0x008711D8]\n\t(No symbol) [0x008712BB]\n\t(No symbol) [0x00864857]\n\tBaseThreadInitThunk [0x75EF00C9+25]\n\tRtlGetAppContainerNamedObjectPath [0x77867B4E+286]\n\tRtlGetAppContainerNamedObjectPath [0x77867B1E+238]\n"
+}

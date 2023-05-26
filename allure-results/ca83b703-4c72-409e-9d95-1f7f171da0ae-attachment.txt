@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#react-burger-menu-btn\"}\n  (Session info: chrome=113.0.5672.127)",
+  "stacktrace": "Backtrace:\n\tGetHandleVerifier [0x00748893+48451]\n\t(No symbol) [0x006DB8A1]\n\t(No symbol) [0x005E5058]\n\t(No symbol) [0x00610467]\n\t(No symbol) [0x0061069B]\n\t(No symbol) [0x0063DD92]\n\t(No symbol) [0x0062A304]\n\t(No symbol) [0x0063C482]\n\t(No symbol) [0x0062A0B6]\n\t(No symbol) [0x00607E08]\n\t(No symbol) [0x00608F2D]\n\tGetHandleVerifier [0x009A8E3A+2540266]\n\tGetHandleVerifier [0x009E8959+2801161]\n\tGetHandleVerifier [0x009E295C+2776588]\n\tGetHandleVerifier [0x007D2280+612144]\n\t(No symbol) [0x006E4F6C]\n\t(No symbol) [0x006E11D8]\n\t(No symbol) [0x006E12BB]\n\t(No symbol) [0x006D4857]\n\tBaseThreadInitThunk [0x75EF00C9+25]\n\tRtlGetAppContainerNamedObjectPath [0x77867B4E+286]\n\tRtlGetAppContainerNamedObjectPath [0x77867B1E+238]\n"
+}

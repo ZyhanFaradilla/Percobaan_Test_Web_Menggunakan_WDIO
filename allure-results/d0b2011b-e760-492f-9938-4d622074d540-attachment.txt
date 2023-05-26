@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".MuiTypography-root MuiTypography-body1 css-sere2z"
+}
